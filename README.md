@@ -54,11 +54,7 @@ While building the Invoice Generator Website, I gained valuable insights and enc
 
 - ⚙️ **Handling Dynamic Forms**: Managing dynamic form entries was tricky, especially when calculating tax and total amounts in real-time. I overcame this by using React state management effectively to track and update form fields.
   
-- 📝 **Auto-Filling Features**: Implementing the auto-fill functionality for consignee details was challenging due to the complexity of managing stored data. I solved this by using local storage to persist data and React's Context API to handle data flow between components.
-
-- 💸 **Tax Calculation Logic**: Developing accurate tax calculation logic for different tax types (SGST-CGST vs IGST) took some time. I overcame this by implementing helper functions to calculate taxes based on the selected type and percentage.
+- 📝 **Auto-Filling Features**: Implementing the auto-fill functionality for consignee details was challenging due to the complexity of managing stored data. I solved this by fetching suggestions from the database to populate consignee details. I used React's Context API to manage and flow data across components efficiently, ensuring the UI was updated seamlessly based on the user's input.
 
 - 🎨 **UI Design for Invoices**: Designing an intuitive and professional invoice UI that would meet the company's requirements involved iterations and feedback. I used TailwindCSS for a flexible and responsive design, ensuring the UI was both functional and visually appealing.
-
-- 🚀 **Performance Optimization**: Initially, there were performance issues when handling large sets of data for invoices. To overcome this, I optimized data fetching and rendering using pagination and lazy loading techniques to improve the app's overall performance.
 
