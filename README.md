@@ -34,7 +34,7 @@ The Invoice Generator Website is a web application designed to streamline and si
 - 📈 **Increased Productivity**: The website allows users to create and process invoices **Z%** faster, making it easier to manage invoicing tasks.
 
 ## 📈 Impact
-- ⏳ **Time Saved**: The average time spent on generating an invoice has been reduced by **X%**, resulting in faster invoicing and fewer delays in processing.
+- ⏳ **Time Saved**: The average time spent on generating an invoice has been reduced by **70%**, resulting in faster invoicing and fewer delays in processing.
 - ✔️ **Accuracy**: The automated calculations eliminate human errors in tax and total amounts, ensuring accurate invoice creation.
 - 🛠️ **Convenience**: Consignee details can be easily stored and retrieved, making invoicing quicker and more streamlined.
 
