@@ -58,3 +58,13 @@ While building the Invoice Generator Website, I gained valuable insights and enc
 
 - 🎨 **UI Design for Invoices**: Designing an intuitive and professional invoice UI that would meet the company's requirements involved iterations and feedback. I used TailwindCSS for a flexible and responsive design, ensuring the UI was both functional and visually appealing.
 
+## 🖼️ Invoice Template Preview
+
+Below is a preview of the invoice template I designed. All sensitive client information has been removed to maintain confidentiality. The image showcases the overall layout, design structure, and formatting used to create a professional invoice interface tailored to the client's requirements.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e1e8b4e2-d9a4-4d73-b0e1-1987b46c0f80" alt="Invoice Template" width="600" />
+</p>
+
+
+
